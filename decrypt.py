@@ -16,7 +16,7 @@ def decrypt(privkey, pubkey, ciphertext):
     N= pubkey
     d = privkey
     m = pow(ciphertext, d, N)
-    return long_to_bytes(m).decode('ascii',errors='ignore')
+    return m#long_to_bytes(m)#.decode('utf-8', errors='replace')
 
 
 
