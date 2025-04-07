@@ -1,4 +1,4 @@
-from Crypto.Util.number import bytes_to_long, inverse
+from Crypto.Util.number import inverse
 
 '''
 This CTf needs u to get the private key from the public key and the ciphertext.
