@@ -1,3 +1,6 @@
 I am solving this CTF from picoCTF.
-It is interesting as it helps u undestand how RSA works using exponentrs and modulus.
+It is interesting as it helps u undestand how RSA works using exponents and modulus.
+
+To import Crypto correctly:
+    pip3 install crypto
 
