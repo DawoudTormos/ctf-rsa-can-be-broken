@@ -1,0 +1,3 @@
+I am solving this CTF from picoCTF.
+It is interesting as it helps u undestand how RSA works using exponentrs and modulus.
+
